@@ -1,9 +1,12 @@
 {
-  "name": "crm_learny",
-  "version": "1.0.0",   
+  "name": "compiladores",
+  "version": "1.0.0",
   "dependencies": {
-    "angular" : "~1.2",
+    "angular": "~1.2",
     "angular-route": "~1.2",
     "angular-chart.js": "~0.8.8"
+  },
+  "resolutions": {
+    "angular": "1.2.30"
   }
 }
